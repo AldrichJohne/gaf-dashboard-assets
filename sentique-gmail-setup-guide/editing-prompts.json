@@ -1,0 +1,61 @@
+{
+  "mode": "Built-in image editing",
+  "instructions": "Preserve screenshot UI and permission text; cover personal emails, avatar initials and expiry timestamps with opaque privacy blocks; add a numbered warm ivory and brown instruction header and orange control outlines.",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Start Gmail setup",
+      "instruction": "Click Authorize Gmail, then Continue to Gmail authorization."
+    },
+    {
+      "number": 2,
+      "title": "Review permissions",
+      "instruction": "Click Review permissions."
+    },
+    {
+      "number": 3,
+      "title": "Testing-stage warning",
+      "instruction": "Continue only if Sentique invited you and you trust this app."
+    },
+    {
+      "number": 4,
+      "title": "Confirm your sender account",
+      "instruction": "Check the selected account, then click Continue."
+    },
+    {
+      "number": 5,
+      "title": "Allow the helper connection",
+      "instruction": "Review Connect to an external service, then click Continue."
+    },
+    {
+      "number": 6,
+      "title": "Authorize the Gmail sender",
+      "instruction": "Confirm the sender account, then click Authorize Gmail Account."
+    },
+    {
+      "number": 7,
+      "title": "Testing-stage warning",
+      "instruction": "Continue only if Sentique invited you and you trust this app."
+    },
+    {
+      "number": 8,
+      "title": "Confirm the account again",
+      "instruction": "Use the same sender account, then click Continue."
+    },
+    {
+      "number": 9,
+      "title": "Review Gmail sending access",
+      "instruction": "Review Send email on your behalf, then click Continue."
+    },
+    {
+      "number": 10,
+      "title": "Return to Property setup",
+      "instruction": "Go back to the original Property setup tab."
+    },
+    {
+      "number": 11,
+      "title": "Check the connection",
+      "instruction": "Click Check connection. Finish when Gmail connected appears."
+    }
+  ]
+}
